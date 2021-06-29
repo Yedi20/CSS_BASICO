@@ -1,0 +1,22 @@
+p{
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text-justify{
+    text-align: justify;
+}
+.text-coral{
+
+    color: salmon;
+}
+body{
+    background-color: skyblue;
+    font-family: 'Courier New', Courier, monospace ;
+}
+
+.parrafo{
+    color: gold;
+}
